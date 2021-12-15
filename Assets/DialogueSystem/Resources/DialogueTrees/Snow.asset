@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d22888574f9e9fa4fa361e996cfea431, type: 3}
+  m_Name: Snow
+  m_EditorClassIdentifier: 
+  DialogueName: Snow
+  EntryPointGUID: 996ebabc-8349-4806-8961-d6c59b45467a
+  NodeLinks:
+  - BaseNodeGuid: 996ebabc-8349-4806-8961-d6c59b45467a
+    PortName: Next
+    PortGUID: 67418655-fc1c-4887-a0ee-3c9e00f8518b
+    Condition: 
+    TargetNodeGuid: 02feecaa-5b18-4641-97b6-237070465047
+  - BaseNodeGuid: 02feecaa-5b18-4641-97b6-237070465047
+    PortName: Next
+    PortGUID: af20a1ba-ba0e-4123-bf39-e170fcb98a6a
+    Condition: 
+    TargetNodeGuid: 492d889e-b0df-4854-995d-86b2dcc4bbe0
+  - BaseNodeGuid: 492d889e-b0df-4854-995d-86b2dcc4bbe0
+    PortName: Next
+    PortGUID: 84056eb9-3604-4e70-a399-d6b990fa8873
+    Condition: 
+    TargetNodeGuid: c7cd57fb-3b4a-49b1-bdb6-5dfb02db8f43
+  - BaseNodeGuid: c7cd57fb-3b4a-49b1-bdb6-5dfb02db8f43
+    PortName: "\u201CWho was hopscotching here?\u201D"
+    PortGUID: bb30c90c-7a1e-4b06-afeb-282f6b76dcb6
+    Condition: 
+    TargetNodeGuid: 
+  Nodes:
+  - Guid: 8a6cdf7f-f0de-4ca1-9baa-b04dd3ab967f
+    Position: {x: -62.4, y: -260}
+    Type: 16
+    _textKeys:
+    - Code
+    _textValues:
+    - 'DialogueSystem.Demo.DialogueController dc = Utility.Toolbox.Instance.dialogue;
+
+      Background
+      bg = Utility.Toolbox.Instance.bg;
+
+      string n = "Narrator";'
+  - Guid: 02feecaa-5b18-4641-97b6-237070465047
+    Position: {x: 220, y: 61.600002}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    - CharacterName
+    _textValues:
+    - "It was a cold day in late autumn. On a path running straight through \nthe
+      village, a young girl crouched down, looking at the ground."
+    - ${n}
+  - Guid: 492d889e-b0df-4854-995d-86b2dcc4bbe0
+    Position: {x: 644, y: 59.999996}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    - CharacterName
+    _textValues:
+    - She tilted her head and breathed deeply.
+    - ${n}
+  - Guid: c7cd57fb-3b4a-49b1-bdb6-5dfb02db8f43
+    Position: {x: 929.6, y: 61.600002}
+    Type: 4
+    _textKeys:
+    - DialogueText
+    - CharacterName
+    _textValues:
+    - 
+    - 

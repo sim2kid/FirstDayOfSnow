@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 using Sound;
+using DialogueSystem.Demo;
 
 namespace Utility
 {
@@ -24,6 +25,8 @@ namespace Utility
         /// </summary>
         public Pause Pause { get; set; }
         public BackgroundDatabase Backgrounds { get; private set; }
+        public Background bg { get; set; }
+        public DialogueController dialogue { get; set; }
 
         private Toolbox()
         {

@@ -19,7 +19,7 @@ namespace Utility.Editor
             Database db = Importer.Import("", null, "Assets/Resources/Audio", ".mp3", ".wav", ".ogg", ".aiff", ".aif");
             Importer.SaveDatabase(db, "Assets/Resources/Data/Database", "Audio");
 
-            Database db2 = Importer.Import("", null, "Assets/Resources/Background", ".png", ".jpeg", ".jpg");
+            Database db2 = Importer.Import("", null, "Assets/Resources/Images", ".png", ".jpeg", ".jpg");
             Importer.SaveDatabase(db2, "Assets/Resources/Data/Database", "Images");
         }
     }

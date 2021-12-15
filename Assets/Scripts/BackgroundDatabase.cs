@@ -31,7 +31,7 @@ namespace Sound
 
                 foreach (File file in dir.Files)
                 {
-                    string clipPath = System.IO.Path.ChangeExtension($"Background\\{file.FileLocation}", string.Empty);
+                    string clipPath = System.IO.Path.ChangeExtension($"Images\\{file.FileLocation}", string.Empty);
                     clipPath = clipPath.Substring(0, clipPath.Length - 1);
                     Texture2D c = Resources.Load<Texture2D>(clipPath);
                     if (c != null)
