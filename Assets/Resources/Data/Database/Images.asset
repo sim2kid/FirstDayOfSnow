@@ -18,14 +18,4 @@ MonoBehaviour:
   - FolderName: Background
     Files:
     - ParentFolder: Background
-      FileLocation: Background\BusinessCard_Back++.png
-    - ParentFolder: Background
-      FileLocation: Background\BusinessCard_Back.png
-    - ParentFolder: Background
-      FileLocation: Background\BusinessCard_Front++.png
-    - ParentFolder: Background
-      FileLocation: Background\BusinessCard_Front.png
-    - ParentFolder: Background
-      FileLocation: Background\Soft Beats Album Art Blue-02.png
-    - ParentFolder: Background
-      FileLocation: Background\Soft Beats Album Art Green-02.png
+      FileLocation: Background\Untitled.png

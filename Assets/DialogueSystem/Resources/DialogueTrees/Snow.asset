@@ -17,37 +17,602 @@ MonoBehaviour:
   NodeLinks:
   - BaseNodeGuid: 996ebabc-8349-4806-8961-d6c59b45467a
     PortName: Next
-    PortGUID: 67418655-fc1c-4887-a0ee-3c9e00f8518b
+    PortGUID: 0822d6e5-009d-42a0-b070-330f6d124e07
     Condition: 
-    TargetNodeGuid: 02feecaa-5b18-4641-97b6-237070465047
+    TargetNodeGuid: 46d7e536-abce-4180-94d8-96e0aa44346f
   - BaseNodeGuid: 02feecaa-5b18-4641-97b6-237070465047
     PortName: Next
-    PortGUID: af20a1ba-ba0e-4123-bf39-e170fcb98a6a
+    PortGUID: b799f555-84d6-41e7-bd35-f4c2f531e031
     Condition: 
     TargetNodeGuid: 492d889e-b0df-4854-995d-86b2dcc4bbe0
+  - BaseNodeGuid: 02feecaa-5b18-4641-97b6-237070465047
+    PortName: Next
+    PortGUID: 87f1c2fd-11c0-424e-b7c6-88b70380d6b4
+    Condition: 
+    TargetNodeGuid: df6ee159-d7e3-4f67-85ed-bc1a0e507d4a
   - BaseNodeGuid: 492d889e-b0df-4854-995d-86b2dcc4bbe0
     PortName: Next
-    PortGUID: 84056eb9-3604-4e70-a399-d6b990fa8873
+    PortGUID: 2ec12344-654b-4b2c-a8a2-808f8b8e94dd
     Condition: 
     TargetNodeGuid: c7cd57fb-3b4a-49b1-bdb6-5dfb02db8f43
   - BaseNodeGuid: c7cd57fb-3b4a-49b1-bdb6-5dfb02db8f43
     PortName: "\u201CWho was hopscotching here?\u201D"
     PortGUID: bb30c90c-7a1e-4b06-afeb-282f6b76dcb6
     Condition: 
-    TargetNodeGuid: 
+    TargetNodeGuid: 1439dcca-7ab5-4e63-a1e2-913a1ed70178
+  - BaseNodeGuid: 1439dcca-7ab5-4e63-a1e2-913a1ed70178
+    PortName: Next
+    PortGUID: b93bc5ea-b341-424f-ad41-a014948ad573
+    Condition: 
+    TargetNodeGuid: a04cd716-5548-435b-8a6e-844a3de8bb7e
+  - BaseNodeGuid: a04cd716-5548-435b-8a6e-844a3de8bb7e
+    PortName: Next
+    PortGUID: 826b71e7-a8b6-4dff-8b7d-55ae1414641a
+    Condition: 
+    TargetNodeGuid: 1cddfc8a-a7af-4f50-9d9a-01176c740275
+  - BaseNodeGuid: 1cddfc8a-a7af-4f50-9d9a-01176c740275
+    PortName: "\u201CWhat a long hopscotch!\u201D"
+    PortGUID: 6b27e12a-f32d-4a22-bd92-e809a99b28ec
+    Condition: 
+    TargetNodeGuid: 51447f03-2ebc-413a-a497-cbec1533a1fa
+  - BaseNodeGuid: 51447f03-2ebc-413a-a497-cbec1533a1fa
+    PortName: Next
+    PortGUID: 993821af-7183-482c-9a87-978545472ebb
+    Condition: 
+    TargetNodeGuid: e61c90f3-cd86-48aa-80e6-840940ac5c80
+  - BaseNodeGuid: e61c90f3-cd86-48aa-80e6-840940ac5c80
+    PortName: Next
+    PortGUID: 22e1d9e0-c110-4b99-a099-d31b9a282f01
+    Condition: 
+    TargetNodeGuid: 2ff9b85e-8247-4ce1-9baa-76936205f3d2
+  - BaseNodeGuid: e61c90f3-cd86-48aa-80e6-840940ac5c80
+    PortName: Next
+    PortGUID: a9ef782b-ff10-492f-96ab-9484deb82da0
+    Condition: 
+    TargetNodeGuid: a3bbd144-fa78-4609-b6b1-6956b4141df2
+  - BaseNodeGuid: a3bbd144-fa78-4609-b6b1-6956b4141df2
+    PortName: Next
+    PortGUID: cff847a2-1e51-459c-b959-6ef939a69797
+    Condition: 
+    TargetNodeGuid: 2ff9b85e-8247-4ce1-9baa-76936205f3d2
+  - BaseNodeGuid: a3bbd144-fa78-4609-b6b1-6956b4141df2
+    PortName: Next
+    PortGUID: bce4ca8d-9367-48a3-baa3-4787fa26645f
+    Condition: 
+    TargetNodeGuid: eb966f14-8ee3-4a5b-a8b2-8b488bddf361
+  - BaseNodeGuid: eb966f14-8ee3-4a5b-a8b2-8b488bddf361
+    PortName: Next
+    PortGUID: da2a30e4-23c7-4b51-adf8-81c1cb290b06
+    Condition: 
+    TargetNodeGuid: 6f255519-399d-4706-a20d-b61fcbe76e39
+  - BaseNodeGuid: 6f255519-399d-4706-a20d-b61fcbe76e39
+    PortName: Next
+    PortGUID: 666ad88a-7f48-4b02-b01f-ec56c607fe00
+    Condition: 
+    TargetNodeGuid: 1df8fabd-dca0-4a3e-98c1-7795cc857f7b
+  - BaseNodeGuid: 1df8fabd-dca0-4a3e-98c1-7795cc857f7b
+    PortName: Next
+    PortGUID: 27616e17-3843-4402-bd57-8054f6e7ff88
+    Condition: 
+    TargetNodeGuid: 9b094a38-e855-4711-81c4-9476830d92e6
+  - BaseNodeGuid: 1db41c3e-8256-4979-9715-525713f12ad7
+    PortName: Next
+    PortGUID: 4cb44fcf-ea75-4e5b-9238-0eb6b506c784
+    Condition: 
+    TargetNodeGuid: f821bc2c-4317-403d-aef0-217b41e19801
+  - BaseNodeGuid: 1db41c3e-8256-4979-9715-525713f12ad7
+    PortName: Next
+    PortGUID: 5d9ea06a-7eb2-413d-b90b-132ed92ebc60
+    Condition: 
+    TargetNodeGuid: 7343df01-2e67-49a5-a5e8-be25bf2f2352
+  - BaseNodeGuid: 7343df01-2e67-49a5-a5e8-be25bf2f2352
+    PortName: "\u201CWho on earth drew a hopscotch this long?\u201D"
+    PortGUID: af5e39f2-d394-49cc-bc4b-cefe7403e025
+    Condition: 
+    TargetNodeGuid: 8b2e43d9-ffad-476c-9660-9a1d4ab95f85
+  - BaseNodeGuid: 8b2e43d9-ffad-476c-9660-9a1d4ab95f85
+    PortName: Next
+    PortGUID: 36634d52-0bf9-491b-9d53-3dc3def8e840
+    Condition: 
+    TargetNodeGuid: 7cec0f7f-39b7-4f52-ba79-3e5dc115c3fb
+  - BaseNodeGuid: 7cec0f7f-39b7-4f52-ba79-3e5dc115c3fb
+    PortName: Next
+    PortGUID: f7f963a8-9c88-486e-97b9-375f2e601451
+    Condition: 
+    TargetNodeGuid: f821bc2c-4317-403d-aef0-217b41e19801
+  - BaseNodeGuid: 7cec0f7f-39b7-4f52-ba79-3e5dc115c3fb
+    PortName: Next
+    PortGUID: 50a4f8be-25c7-461c-b02b-c50686e01a40
+    Condition: 
+    TargetNodeGuid: ffd569a6-b84f-4794-a9de-579535f9ec5e
+  - BaseNodeGuid: ffd569a6-b84f-4794-a9de-579535f9ec5e
+    PortName: Next
+    PortGUID: a9aff9d6-7539-4971-9fbc-e0d51835bec1
+    Condition: 
+    TargetNodeGuid: f821bc2c-4317-403d-aef0-217b41e19801
+  - BaseNodeGuid: ffd569a6-b84f-4794-a9de-579535f9ec5e
+    PortName: Next
+    PortGUID: 53d4323f-6e47-495d-836b-9a2bbda3778a
+    Condition: 
+    TargetNodeGuid: 903c5ab5-aecc-49b3-a62f-39eaac192798
+  - BaseNodeGuid: c9397c59-a599-41a5-9512-f0f6ea953b2d
+    PortName: "\u201CIt may turn into a blizzard. Maybe I should go home now.\u201D"
+    PortGUID: 3e74a4a9-9eba-452d-a8d5-3a864fed508b
+    Condition: 
+    TargetNodeGuid: 1c6a4c57-35dd-4412-a04f-8f6c44af002b
+  - BaseNodeGuid: 1c6a4c57-35dd-4412-a04f-8f6c44af002b
+    PortName: Next
+    PortGUID: 45a6117b-66e6-4501-b5a7-da7421813b76
+    Condition: 
+    TargetNodeGuid: 4d14520a-88b5-48ed-b58b-1bc7eb530122
+  - BaseNodeGuid: 4d14520a-88b5-48ed-b58b-1bc7eb530122
+    PortName: Next
+    PortGUID: b77323dc-b4a2-4de6-8b78-1cbac9a6f25f
+    Condition: 
+    TargetNodeGuid: 210ffdc0-8d13-46ca-8cbc-9c445035f27d
+  - BaseNodeGuid: 4d14520a-88b5-48ed-b58b-1bc7eb530122
+    PortName: Next
+    PortGUID: b71a58b0-3e73-4279-ad05-51656154ef3c
+    Condition: 
+    TargetNodeGuid: 2b758f11-630e-4937-b95b-fc7abcd3d392
+  - BaseNodeGuid: 2b758f11-630e-4937-b95b-fc7abcd3d392
+    PortName: Next
+    PortGUID: 2205f8fe-2b97-4335-8f9b-d6af6971409c
+    Condition: 
+    TargetNodeGuid: a54f46c7-33a1-407b-9d60-20d19107aa2a
+  - BaseNodeGuid: a54f46c7-33a1-407b-9d60-20d19107aa2a
+    PortName: Next
+    PortGUID: 7a223521-7ddd-4557-8232-d8d479fad36c
+    Condition: 
+    TargetNodeGuid: 210ffdc0-8d13-46ca-8cbc-9c445035f27d
+  - BaseNodeGuid: a54f46c7-33a1-407b-9d60-20d19107aa2a
+    PortName: Next
+    PortGUID: 6044a0ba-754c-4da8-adfd-e5a50c8aeae5
+    Condition: 
+    TargetNodeGuid: 3262c82f-5a3f-42ab-8c36-a1c6f20533a9
+  - BaseNodeGuid: 3262c82f-5a3f-42ab-8c36-a1c6f20533a9
+    PortName: Next
+    PortGUID: 97a3620d-272b-40c8-b4c4-0d0cc35faa6c
+    Condition: 
+    TargetNodeGuid: b19dd8cf-e4cd-496d-8a04-591336d37fe2
+  - BaseNodeGuid: b19dd8cf-e4cd-496d-8a04-591336d37fe2
+    PortName: Next
+    PortGUID: bc2e3803-f32b-4539-9213-ab329df28c44
+    Condition: 
+    TargetNodeGuid: 210ffdc0-8d13-46ca-8cbc-9c445035f27d
+  - BaseNodeGuid: b19dd8cf-e4cd-496d-8a04-591336d37fe2
+    PortName: Next
+    PortGUID: 0f74fcb4-c9f5-44e8-8b42-f009bd6c8693
+    Condition: 
+    TargetNodeGuid: 25fd886f-386a-48d8-9fae-133461d93e53
+  - BaseNodeGuid: 9b094a38-e855-4711-81c4-9476830d92e6
+    PortName: Next
+    PortGUID: 9fefc05b-3a30-4732-94d5-47ac2f7004b7
+    Condition: 
+    TargetNodeGuid: 1db41c3e-8256-4979-9715-525713f12ad7
+  - BaseNodeGuid: 903c5ab5-aecc-49b3-a62f-39eaac192798
+    PortName: Next
+    PortGUID: 5a8260fd-50c7-4764-968c-4439396a6fc8
+    Condition: 
+    TargetNodeGuid: c9397c59-a599-41a5-9512-f0f6ea953b2d
+  - BaseNodeGuid: 25fd886f-386a-48d8-9fae-133461d93e53
+    PortName: Next
+    PortGUID: c9891df5-e08f-4d7b-888a-800edddbefd1
+    Condition: 
+    TargetNodeGuid: fd0533bb-263e-4782-a565-d99426dc6360
+  - BaseNodeGuid: fd0533bb-263e-4782-a565-d99426dc6360
+    PortName: Next
+    PortGUID: 5bc5f0e4-c8ab-40f9-9fdc-539ffa074301
+    Condition: 
+    TargetNodeGuid: 210ffdc0-8d13-46ca-8cbc-9c445035f27d
+  - BaseNodeGuid: fd0533bb-263e-4782-a565-d99426dc6360
+    PortName: Next
+    PortGUID: e0445d8f-d65e-4bd2-bdf4-40f451f2d49c
+    Condition: 
+    TargetNodeGuid: ef22748c-a576-4bdc-aa13-0029a0e460b7
+  - BaseNodeGuid: ef22748c-a576-4bdc-aa13-0029a0e460b7
+    PortName: Next
+    PortGUID: ad3ecd29-d570-45ab-97b4-b937e8f20fef
+    Condition: 
+    TargetNodeGuid: 9e0dc5bb-a4b2-4635-8942-cbcd160ea492
+  - BaseNodeGuid: d844600c-7d36-42f9-8990-82f9419a2478
+    PortName: Next
+    PortGUID: eef64463-1f09-4c2c-beec-a799031828a5
+    Condition: 
+    TargetNodeGuid: 83fe682b-9a6f-4c39-a4ae-9605fdf6f217
+  - BaseNodeGuid: 9e0dc5bb-a4b2-4635-8942-cbcd160ea492
+    PortName: "\u201COh, I had no idea. Where are you goin? Where does this all lead
+      to?\u201D"
+    PortGUID: 524c2653-aadb-411f-ad31-e5d363c75362
+    Condition: 
+    TargetNodeGuid: d844600c-7d36-42f9-8990-82f9419a2478
+  - BaseNodeGuid: 83fe682b-9a6f-4c39-a4ae-9605fdf6f217
+    PortName: Next
+    PortGUID: 65e2ea09-9d27-455e-a278-aa2b52c75bcb
+    Condition: 
+    TargetNodeGuid: 1ffcedf6-ecc1-4451-9531-69bf0e2c60fa
+  - BaseNodeGuid: 83fe682b-9a6f-4c39-a4ae-9605fdf6f217
+    PortName: Next
+    PortGUID: 3a7647d0-9af5-4d99-91a0-1a3534b3d9ea
+    Condition: 
+    TargetNodeGuid: 1bd94098-072e-48a1-9c6b-f4bcf44707b8
+  - BaseNodeGuid: 1bd94098-072e-48a1-9c6b-f4bcf44707b8
+    PortName: '"What?"'
+    PortGUID: 77a63394-b739-4deb-86cf-a21018b1b5ef
+    Condition: 
+    TargetNodeGuid: db3d0b2e-0237-4221-897d-1bb403bfb081
+  - BaseNodeGuid: db3d0b2e-0237-4221-897d-1bb403bfb081
+    PortName: Next
+    PortGUID: 379475e2-6bd5-4a28-bb55-0941ee413b9d
+    Condition: 
+    TargetNodeGuid: 3b5fd356-8bb2-4097-95a6-f0a9d568b997
+  - BaseNodeGuid: 34efb41f-9fe7-401b-b34e-7fd0f5b382da
+    PortName: Next
+    PortGUID: 3456538f-1d4f-485b-91ca-9bb566eb8c63
+    Condition: 
+    TargetNodeGuid: 5d27a6ea-7584-457b-8183-5d1e07093aec
+  - BaseNodeGuid: 5d27a6ea-7584-457b-8183-5d1e07093aec
+    PortName: Next
+    PortGUID: 30cf277e-0346-4f9d-8191-2d1c22757b43
+    Condition: 
+    TargetNodeGuid: 6e954fb8-f913-466a-92f5-b48db5d44066
+  - BaseNodeGuid: 5d27a6ea-7584-457b-8183-5d1e07093aec
+    PortName: Next
+    PortGUID: 8d402105-61d2-4df8-a6e1-76a85185115a
+    Condition: 
+    TargetNodeGuid: 1868e372-46fc-4d4c-b585-643722a033ec
+  - BaseNodeGuid: 1868e372-46fc-4d4c-b585-643722a033ec
+    PortName: Next
+    PortGUID: 8cb14935-cdbb-4806-b79e-36acab3dfa84
+    Condition: 
+    TargetNodeGuid: 215e01dd-2316-42a2-b7be-a2f9f693d6c3
+  - BaseNodeGuid: 215e01dd-2316-42a2-b7be-a2f9f693d6c3
+    PortName: Next
+    PortGUID: 8cb89ea6-f29e-4a00-8376-64d506fa47c3
+    Condition: 
+    TargetNodeGuid: 6e954fb8-f913-466a-92f5-b48db5d44066
+  - BaseNodeGuid: 215e01dd-2316-42a2-b7be-a2f9f693d6c3
+    PortName: Next
+    PortGUID: f5c67f3b-947e-457a-a81a-644eb2d2c664
+    Condition: 
+    TargetNodeGuid: 2d78bd69-e98c-4699-ba8c-9bac5732cf29
+  - BaseNodeGuid: 2d78bd69-e98c-4699-ba8c-9bac5732cf29
+    PortName: Next
+    PortGUID: 0f74e991-21a3-44b0-b750-db638625ec9f
+    Condition: 
+    TargetNodeGuid: 92f7e0b9-c6a4-44c6-893a-940388192a89
+  - BaseNodeGuid: 92f7e0b9-c6a4-44c6-893a-940388192a89
+    PortName: "\u201CI\u2019m in trouble!\u201D"
+    PortGUID: 79c8ce98-431d-4de3-b969-40c96ca5cd54
+    Condition: 
+    TargetNodeGuid: 8fcfc7cb-8701-41c5-83ae-298f20ae65f4
+  - BaseNodeGuid: 8fcfc7cb-8701-41c5-83ae-298f20ae65f4
+    PortName: Next
+    PortGUID: 06a07d0d-0191-46c4-9be9-782fd340dc8e
+    Condition: 
+    TargetNodeGuid: 18b862db-c911-4e1a-82a0-7bc290f8ca13
+  - BaseNodeGuid: 8fcfc7cb-8701-41c5-83ae-298f20ae65f4
+    PortName: Next
+    PortGUID: f39f474a-6948-4cd2-9608-085a90233bdb
+    Condition: 
+    TargetNodeGuid: f4a5f6b6-95a0-4569-845c-562d9ec4be44
+  - BaseNodeGuid: f4a5f6b6-95a0-4569-845c-562d9ec4be44
+    PortName: Next
+    PortGUID: 559c2f75-bccc-47d9-86ad-1bf5b274fd44
+    Condition: 
+    TargetNodeGuid: d17e48e8-e25e-4235-8c73-ff6b75a68112
+  - BaseNodeGuid: d17e48e8-e25e-4235-8c73-ff6b75a68112
+    PortName: Next
+    PortGUID: b32547ec-86ff-4300-8ce9-77d3a02dbc3e
+    Condition: 
+    TargetNodeGuid: 6b7caf27-f517-43fa-b802-9c8dc66b5c5c
+  - BaseNodeGuid: 6b7caf27-f517-43fa-b802-9c8dc66b5c5c
+    PortName: Next
+    PortGUID: 2bcae1a4-e153-4259-828d-5f0facd5d614
+    Condition: 
+    TargetNodeGuid: 18b862db-c911-4e1a-82a0-7bc290f8ca13
+  - BaseNodeGuid: 6b7caf27-f517-43fa-b802-9c8dc66b5c5c
+    PortName: Next
+    PortGUID: 1c5358a8-bd20-4a57-be77-34ae2046a2d9
+    Condition: 
+    TargetNodeGuid: 9f567643-5a1c-4768-95d3-465ff3360a79
+  - BaseNodeGuid: 9f567643-5a1c-4768-95d3-465ff3360a79
+    PortName: Next
+    PortGUID: 2ad10761-1483-436b-890c-7df5ef1d350c
+    Condition: 
+    TargetNodeGuid: 1b69e6b4-d589-43bf-9a7d-5de6158c29d9
+  - BaseNodeGuid: 1b69e6b4-d589-43bf-9a7d-5de6158c29d9
+    PortName: Next
+    PortGUID: e4d5f293-f6cb-4d35-8222-d3cf37a7274f
+    Condition: 
+    TargetNodeGuid: 48bcc6a9-d043-418f-9cae-26f92318ed87
+  - BaseNodeGuid: b567939f-dc94-42fa-84c5-41078d3112f3
+    PortName: Next
+    PortGUID: 49bc8dcd-8422-4cbc-a54a-a692d9e8d76d
+    Condition: 
+    TargetNodeGuid: 65deb849-587e-4cf2-a38c-1a121982d96c
+  - BaseNodeGuid: 48bcc6a9-d043-418f-9cae-26f92318ed87
+    PortName: "\u201CI\u2019m going to do the same\u201D"
+    PortGUID: 5df22823-53ff-4aaf-b805-b30250cd34a0
+    Condition: 
+    TargetNodeGuid: b567939f-dc94-42fa-84c5-41078d3112f3
+  - BaseNodeGuid: 65deb849-587e-4cf2-a38c-1a121982d96c
+    PortName: Next
+    PortGUID: 823f59e7-2460-4884-a0a5-237f20935060
+    Condition: 
+    TargetNodeGuid: 54bf66d0-9c97-4a4c-bd2d-3a6991d3da88
+  - BaseNodeGuid: 54bf66d0-9c97-4a4c-bd2d-3a6991d3da88
+    PortName: Next
+    PortGUID: 1e6d5c5c-cf22-4806-915f-b37bb56db722
+    Condition: 
+    TargetNodeGuid: 281b8954-78b9-4c9a-978f-2e15ed8c3c85
+  - BaseNodeGuid: 518109ee-668c-4be8-ad5e-8fad94357d61
+    PortName: Next
+    PortGUID: c791d585-0c53-4fdd-8bc8-01556c6117b9
+    Condition: 
+    TargetNodeGuid: b09bc26e-72c4-4aee-b984-0933a3d78cf9
+  - BaseNodeGuid: b09bc26e-72c4-4aee-b984-0933a3d78cf9
+    PortName: Next
+    PortGUID: fe0bfd71-54f6-4139-b11f-33d05bc50242
+    Condition: 
+    TargetNodeGuid: e2c31073-e312-4134-ba30-3b464f283303
+  - BaseNodeGuid: b09bc26e-72c4-4aee-b984-0933a3d78cf9
+    PortName: Next
+    PortGUID: fcf02216-81cc-407a-837e-091f4c9bee5d
+    Condition: 
+    TargetNodeGuid: 92fcd93f-bd2e-45f4-86f9-df64873698c2
+  - BaseNodeGuid: 281b8954-78b9-4c9a-978f-2e15ed8c3c85
+    PortName: Next
+    PortGUID: 61845cec-51c8-4745-bf45-53697ca5ffd7
+    Condition: 
+    TargetNodeGuid: 518109ee-668c-4be8-ad5e-8fad94357d61
+  - BaseNodeGuid: 92fcd93f-bd2e-45f4-86f9-df64873698c2
+    PortName: Next
+    PortGUID: 0f92c626-bf51-40fe-9cca-869ade026c28
+    Condition: 
+    TargetNodeGuid: e2c31073-e312-4134-ba30-3b464f283303
+  - BaseNodeGuid: 92fcd93f-bd2e-45f4-86f9-df64873698c2
+    PortName: Next
+    PortGUID: 05717af1-5588-4611-bdbe-a950c79c7f44
+    Condition: 
+    TargetNodeGuid: 51a6a96c-9a65-45d0-9aad-ca760f43f235
+  - BaseNodeGuid: 51a6a96c-9a65-45d0-9aad-ca760f43f235
+    PortName: Next
+    PortGUID: 42747b8f-dbde-4888-87e0-e5c4064063d1
+    Condition: 
+    TargetNodeGuid: d11f0da7-e6fd-4eab-b158-45263c1cae72
+  - BaseNodeGuid: d11f0da7-e6fd-4eab-b158-45263c1cae72
+    PortName: Next
+    PortGUID: 5b1e8c03-b14b-4e8f-85e6-1999911e796d
+    Condition: 
+    TargetNodeGuid: dc728437-5bcd-4b6e-bac4-8c5c4c0216cd
+  - BaseNodeGuid: dc728437-5bcd-4b6e-bac4-8c5c4c0216cd
+    PortName: Next
+    PortGUID: f1ecbc74-1e20-4468-a28f-2a6000a6a002
+    Condition: 
+    TargetNodeGuid: c58fe215-e690-4aae-bc14-9c526084b3f3
+  - BaseNodeGuid: c58fe215-e690-4aae-bc14-9c526084b3f3
+    PortName: Next
+    PortGUID: c232813f-b4ef-4327-8468-060a5c3cf9e1
+    Condition: 
+    TargetNodeGuid: dc70bef8-f4ba-4976-8203-70597d5e4908
+  - BaseNodeGuid: dc70bef8-f4ba-4976-8203-70597d5e4908
+    PortName: Next
+    PortGUID: d9c473d4-ab86-433d-88ec-03dfd35648a7
+    Condition: 
+    TargetNodeGuid: cbca0d8f-aa6b-431a-8785-5fb97850e010
+  - BaseNodeGuid: dc70bef8-f4ba-4976-8203-70597d5e4908
+    PortName: Next
+    PortGUID: 598cb76b-1ae1-49a4-9b8c-aa6c682c70c4
+    Condition: 
+    TargetNodeGuid: fb0b3198-89c7-4659-bca1-59099803368f
+  - BaseNodeGuid: cbca0d8f-aa6b-431a-8785-5fb97850e010
+    PortName: Next
+    PortGUID: 98c985f3-8886-45fd-a04d-974ba0c015e1
+    Condition: 
+    TargetNodeGuid: fb0b3198-89c7-4659-bca1-59099803368f
+  - BaseNodeGuid: cbca0d8f-aa6b-431a-8785-5fb97850e010
+    PortName: Next
+    PortGUID: 5fbe9e70-b7cb-4983-9843-c92cb6fae868
+    Condition: 
+    TargetNodeGuid: 3a2d3264-ab05-418f-8485-c4a6c68436e8
+  - BaseNodeGuid: 3a2d3264-ab05-418f-8485-c4a6c68436e8
+    PortName: Next
+    PortGUID: 1a44c7c7-205b-4436-bb9c-26a9f7dcd61f
+    Condition: 
+    TargetNodeGuid: 6247a90f-e042-4384-8b3e-3c6e83cfe823
+  - BaseNodeGuid: a6cb6bf1-0876-48f7-b2f9-8569f9238b22
+    PortName: Next
+    PortGUID: 6290023f-c695-4f95-ab16-321b9b34f89f
+    Condition: 
+    TargetNodeGuid: 52eb086f-eb64-483d-be0d-e19923802e6c
+  - BaseNodeGuid: 6247a90f-e042-4384-8b3e-3c6e83cfe823
+    PortName: "\u201CGrandmother, help!\u201D"
+    PortGUID: 511d3c63-aa80-479b-97ef-053f3487eacd
+    Condition: 
+    TargetNodeGuid: fb0b3198-89c7-4659-bca1-59099803368f
+  - BaseNodeGuid: 6247a90f-e042-4384-8b3e-3c6e83cfe823
+    PortName: "\u201CGrandmother, help!\u201D"
+    PortGUID: 511d3c63-aa80-479b-97ef-053f3487eacd
+    Condition: 
+    TargetNodeGuid: a6cb6bf1-0876-48f7-b2f9-8569f9238b22
+  - BaseNodeGuid: 52eb086f-eb64-483d-be0d-e19923802e6c
+    PortName: Next
+    PortGUID: db5dd65d-8327-4304-baa5-0ffb7e8f34d0
+    Condition: 
+    TargetNodeGuid: d2cf3f0a-3a27-461c-a4d6-b20f42464d7e
+  - BaseNodeGuid: d2cf3f0a-3a27-461c-a4d6-b20f42464d7e
+    PortName: "\u201COh! Who dropped this for me?\u201D"
+    PortGUID: ef01b824-564a-47f0-8f1c-cde405f28716
+    Condition: 
+    TargetNodeGuid: 9b7cb778-3327-4140-99ce-44392e878e25
+  - BaseNodeGuid: 9b7cb778-3327-4140-99ce-44392e878e25
+    PortName: Next
+    PortGUID: 71a52203-7a0e-4472-b50c-83adcf3c4f30
+    Condition: 
+    TargetNodeGuid: 0b44d630-b34b-45be-b706-d08bc92a7b9e
+  - BaseNodeGuid: 3b5fd356-8bb2-4097-95a6-f0a9d568b997
+    PortName: Next
+    PortGUID: 17d61bd1-d25f-4fb8-9bfb-4d87e7aab420
+    Condition: 
+    TargetNodeGuid: 34efb41f-9fe7-401b-b34e-7fd0f5b382da
+  - BaseNodeGuid: 0b44d630-b34b-45be-b706-d08bc92a7b9e
+    PortName: Next
+    PortGUID: 40b11a51-9ead-4c36-9236-e5b42fc75d52
+    Condition: 
+    TargetNodeGuid: fb0b3198-89c7-4659-bca1-59099803368f
+  - BaseNodeGuid: 0b44d630-b34b-45be-b706-d08bc92a7b9e
+    PortName: Next
+    PortGUID: b7c96a81-827e-4858-955a-bc5c98a468ad
+    Condition: 
+    TargetNodeGuid: d454e445-0aca-4dce-a352-ce65661106bc
+  - BaseNodeGuid: d454e445-0aca-4dce-a352-ce65661106bc
+    PortName: Next
+    PortGUID: babfc65b-600f-466d-b627-8c8ea2aee3fb
+    Condition: 
+    TargetNodeGuid: 247ccdb8-9a1d-4b6d-a40f-34c651502f42
+  - BaseNodeGuid: 247ccdb8-9a1d-4b6d-a40f-34c651502f42
+    PortName: "\u201CWhy is the back of a mugwort leaf so white?\u201D"
+    PortGUID: 5c4784b0-a823-4c46-9586-6c0c866e586a
+    Condition: 
+    TargetNodeGuid: dd180eff-c07c-41bd-abe7-cc1b219d6a5d
+  - BaseNodeGuid: dd180eff-c07c-41bd-abe7-cc1b219d6a5d
+    PortName: Next
+    PortGUID: f3f67882-878d-4ebf-be32-e0fce308854b
+    Condition: 
+    TargetNodeGuid: c71281fc-788f-4f4e-854b-fba44143bc0a
+  - BaseNodeGuid: c71281fc-788f-4f4e-854b-fba44143bc0a
+    PortName: Next
+    PortGUID: 8fafe08e-8328-4c17-9c23-de1e5f4c48dd
+    Condition: 
+    TargetNodeGuid: a7384ef1-4d4a-41a5-952c-55d165c0ad08
+  - BaseNodeGuid: a7384ef1-4d4a-41a5-952c-55d165c0ad08
+    PortName: Next
+    PortGUID: e8aa72d5-fb90-493c-b051-3dc7833b2ce1
+    Condition: 
+    TargetNodeGuid: 5201bfc9-83ce-4c39-a96f-a28c16d2715c
+  - BaseNodeGuid: 5201bfc9-83ce-4c39-a96f-a28c16d2715c
+    PortName: Next
+    PortGUID: 6117fb72-fba2-4fe9-909e-bd039370380c
+    Condition: 
+    TargetNodeGuid: 5e539d2a-10ca-447d-979a-e18dce831797
+  - BaseNodeGuid: 5e539d2a-10ca-447d-979a-e18dce831797
+    PortName: Next
+    PortGUID: 66620b55-e49c-43d2-8141-feb3b63c50fa
+    Condition: 
+    TargetNodeGuid: 45b6d90b-6230-411f-ae90-b1c80cce8ba4
+  - BaseNodeGuid: 45b6d90b-6230-411f-ae90-b1c80cce8ba4
+    PortName: "\u201CThat\u2019s easy. It\u2019s rabbit fur.\r Rabbits roll around
+      I the field and shed their hair on mugwort leaves.\u201D "
+    PortGUID: 9bf0bd43-c0a1-4de0-a1e2-2559aded8197
+    Condition: 
+    TargetNodeGuid: 3f627e14-0b6d-4410-b16f-b3eee8d14ece
+  - BaseNodeGuid: 3f627e14-0b6d-4410-b16f-b3eee8d14ece
+    PortName: Next
+    PortGUID: ac2ad60e-8128-4373-a88c-bc960f975339
+    Condition: 
+    TargetNodeGuid: 375fee4c-80a1-4b78-8dcd-1017775a7a05
+  - BaseNodeGuid: 375fee4c-80a1-4b78-8dcd-1017775a7a05
+    PortName: Next
+    PortGUID: 66501a92-d0c2-41d3-a2c1-e23c623f21d5
+    Condition: 
+    TargetNodeGuid: 3a38e77d-9ed3-4c0d-9f55-195ab226f47a
+  - BaseNodeGuid: 3a38e77d-9ed3-4c0d-9f55-195ab226f47a
+    PortName: Next
+    PortGUID: 8ecd4bd1-c61e-480a-b326-9827c8e41941
+    Condition: 
+    TargetNodeGuid: f2f450ad-a9eb-4f7b-97af-68a94286d760
+  - BaseNodeGuid: f2f450ad-a9eb-4f7b-97af-68a94286d760
+    PortName: Next
+    PortGUID: 490a1f30-126f-40d6-8c0f-e062e3010b58
+    Condition: 
+    TargetNodeGuid: 65f83f3e-91c1-43a0-bc36-8dddbf36dfc8
+  - BaseNodeGuid: 65f83f3e-91c1-43a0-bc36-8dddbf36dfc8
+    PortName: Next
+    PortGUID: e853c930-e9dd-454d-a315-514bcca32b2d
+    Condition: 
+    TargetNodeGuid: 36476e74-f370-481c-919b-0f99560febcb
+  - BaseNodeGuid: 65f83f3e-91c1-43a0-bc36-8dddbf36dfc8
+    PortName: Next
+    PortGUID: 8f4a2926-b54d-40c2-a537-3df126e12c57
+    Condition: 
+    TargetNodeGuid: 81537cbb-e48f-4f9e-82d9-8ff8e9127506
+  - BaseNodeGuid: 81537cbb-e48f-4f9e-82d9-8ff8e9127506
+    PortName: Next
+    PortGUID: 49c61f89-94a9-4c69-a602-3339a0e18f6a
+    Condition: 
+    TargetNodeGuid: 2a1bb341-7940-4035-a54a-d7155bce0107
+  - BaseNodeGuid: 2a1bb341-7940-4035-a54a-d7155bce0107
+    PortName: Next
+    PortGUID: b5acc6a0-8c40-46f3-8597-583850ab6321
+    Condition: 
+    TargetNodeGuid: 179ebb5a-e7c4-4b10-ab69-0676bead30bb
+  - BaseNodeGuid: 44366156-c25b-4013-be7e-cc21f2ea2a85
+    PortName: Next
+    PortGUID: 74ddda20-e123-4df6-8e3d-c7dccefd9956
+    Condition: 
+    TargetNodeGuid: ee579720-4f58-4fa9-b05c-70a422cd987a
+  - BaseNodeGuid: ee579720-4f58-4fa9-b05c-70a422cd987a
+    PortName: Next
+    PortGUID: 01ec8058-8a44-4841-9cb1-90f499d41a72
+    Condition: 
+    TargetNodeGuid: e873c789-1de7-4c80-b068-4acd47c50106
+  - BaseNodeGuid: 179ebb5a-e7c4-4b10-ab69-0676bead30bb
+    PortName: "\u201CMugwort, mugwort, mugwort in spring!\u201D\r"
+    PortGUID: 8e7ac0cc-135e-46d4-b431-4d8eeb58d132
+    Condition: 
+    TargetNodeGuid: 44366156-c25b-4013-be7e-cc21f2ea2a85
+  - BaseNodeGuid: 179ebb5a-e7c4-4b10-ab69-0676bead30bb
+    PortName: "\u201CMugwort, mugwort, mugwort in spring!\u201D\r"
+    PortGUID: 8e7ac0cc-135e-46d4-b431-4d8eeb58d132
+    Condition: 
+    TargetNodeGuid: 36476e74-f370-481c-919b-0f99560febcb
+  - BaseNodeGuid: e873c789-1de7-4c80-b068-4acd47c50106
+    PortName: "\u201CAh, I\u2019m safe\u201D"
+    PortGUID: c527d1d9-67c1-492c-b065-ee16224b4b96
+    Condition: 
+    TargetNodeGuid: 75893606-c55f-4e2e-9df4-e50331d01303
+  - BaseNodeGuid: 75893606-c55f-4e2e-9df4-e50331d01303
+    PortName: Next
+    PortGUID: 05591d23-4f9d-40ae-a7fa-9f2e2377f949
+    Condition: 
+    TargetNodeGuid: 98898e18-c934-45e2-a089-08304873578e
+  - BaseNodeGuid: 98898e18-c934-45e2-a089-08304873578e
+    PortName: Next
+    PortGUID: 8f7994e6-bae7-41e6-a27b-0ed8a2f9725d
+    Condition: 
+    TargetNodeGuid: 0ed427a2-b10b-416b-9081-0c9c32f82694
+  - BaseNodeGuid: 0ed427a2-b10b-416b-9081-0c9c32f82694
+    PortName: Next
+    PortGUID: e4c4e124-0fa9-4e6e-94a9-66b43e69568c
+    Condition: 
+    TargetNodeGuid: b5f2db03-4d9e-4331-99e7-15e138a0ce0b
+  - BaseNodeGuid: b5f2db03-4d9e-4331-99e7-15e138a0ce0b
+    PortName: Next
+    PortGUID: 0ee5450e-0952-4220-ab0f-cb007dce067d
+    Condition: 
+    TargetNodeGuid: d7c2d11f-b6aa-4fd5-bb6b-a1e10fc81a83
+  - BaseNodeGuid: d7c2d11f-b6aa-4fd5-bb6b-a1e10fc81a83
+    PortName: Next
+    PortGUID: 8eed1821-4b78-4040-9469-96cc87f52103
+    Condition: 
+    TargetNodeGuid: f5525e5a-ccd8-43a3-80b8-85c6aa29b497
+  - BaseNodeGuid: f5525e5a-ccd8-43a3-80b8-85c6aa29b497
+    PortName: Next
+    PortGUID: c2fdc017-51b1-4f73-a3ed-6274360b1c66
+    Condition: 
+    TargetNodeGuid: fb0273be-85c7-444d-9854-8e5b49bd4e2b
+  - BaseNodeGuid: f5525e5a-ccd8-43a3-80b8-85c6aa29b497
+    PortName: Next
+    PortGUID: 3067a3c3-349d-4c62-b4e3-7668c61880f9
+    Condition: 
+    TargetNodeGuid: eb4e30ee-a884-44da-a1a7-1d87f3dcc22e
+  - BaseNodeGuid: 46d7e536-abce-4180-94d8-96e0aa44346f
+    PortName: Next
+    PortGUID: 0521d3e8-8489-48fd-ba0f-639f12f91276
+    Condition: 
+    TargetNodeGuid: 02feecaa-5b18-4641-97b6-237070465047
   Nodes:
-  - Guid: 8a6cdf7f-f0de-4ca1-9baa-b04dd3ab967f
-    Position: {x: -62.4, y: -260}
-    Type: 16
-    _textKeys:
-    - Code
-    _textValues:
-    - 'DialogueSystem.Demo.DialogueController dc = Utility.Toolbox.Instance.dialogue;
-
-      Background
-      bg = Utility.Toolbox.Instance.bg;
-
-      string n = "Narrator";'
   - Guid: 02feecaa-5b18-4641-97b6-237070465047
     Position: {x: 220, y: 61.600002}
     Type: 8
@@ -55,20 +620,20 @@ MonoBehaviour:
     - DialogueText
     - CharacterName
     _textValues:
-    - "It was a cold day in late autumn. On a path running straight through \nthe
-      village, a young girl crouched down, looking at the ground."
-    - ${n}
+    - It was a cold day in late autumn. On a path running straight through the village,
+      a young girl crouched down, looking at the ground.
+    - 
   - Guid: 492d889e-b0df-4854-995d-86b2dcc4bbe0
-    Position: {x: 644, y: 59.999996}
+    Position: {x: 220, y: 252.8}
     Type: 8
     _textKeys:
     - DialogueText
     - CharacterName
     _textValues:
     - She tilted her head and breathed deeply.
-    - ${n}
+    - 
   - Guid: c7cd57fb-3b4a-49b1-bdb6-5dfb02db8f43
-    Position: {x: 929.6, y: 61.600002}
+    Position: {x: 220, y: 444}
     Type: 4
     _textKeys:
     - DialogueText
@@ -76,3 +641,828 @@ MonoBehaviour:
     _textValues:
     - 
     - 
+  - Guid: 1439dcca-7ab5-4e63-a1e2-913a1ed70178
+    Position: {x: 220, y: 666.39996}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - "Hopscotch rings, drawn in chalk, continued endlessly on the path\u2014across
+      the bridge and toward the mountains."
+  - Guid: a04cd716-5548-435b-8a6e-844a3de8bb7e
+    Position: {x: 220, y: 857.6}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - The girl stood up.
+  - Guid: 1cddfc8a-a7af-4f50-9d9a-01176c740275
+    Position: {x: 418.4, y: 857.6}
+    Type: 4
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - 
+  - Guid: 51447f03-2ebc-413a-a497-cbec1533a1fa
+    Position: {x: 220, y: 1090.4}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - She widened her eyes in awe.
+  - Guid: e61c90f3-cd86-48aa-80e6-840940ac5c80
+    Position: {x: 220, y: 1295.2001}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - When she hopped into a ring, her body became as light as a bouncing ball.
+  - Guid: a3bbd144-fa78-4609-b6b1-6956b4141df2
+    Position: {x: 220, y: 1508.8}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - "One foot, one foot, two feet, one\u2026"
+  - Guid: df6ee159-d7e3-4f67-85ed-bc1a0e507d4a
+    Position: {x: 1023.2, y: -146.4}
+    Type: 64
+    _textKeys:
+    - Code
+    _textValues:
+    - 'dc = Utility.Toolbox.Instance.dialogue;
+
+      bg = Utility.Toolbox.Instance.bg;'
+  - Guid: eb966f14-8ee3-4a5b-a8b2-8b488bddf361
+    Position: {x: 468.8, y: 1508.8}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - With her hands in her pockets, the girl hopped forward.
+  - Guid: 6f255519-399d-4706-a20d-b61fcbe76e39
+    Position: {x: 220, y: 1715.2001}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - "She hopped across the bridge and down a\r narrow path through cabbage fields,
+      then past the only tobacco shop in\r the village.\r"
+  - Guid: 1df8fabd-dca0-4a3e-98c1-7795cc857f7b
+    Position: {x: 220, y: 1936}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    - CharacterName
+    _textValues:
+    - "\u201COh, you have a lot of energy!\u201D"
+    - Old Man
+  - Guid: 2ff9b85e-8247-4ce1-9baa-76936205f3d2
+    Position: {x: 980.8, y: 1340.8}
+    Type: 64
+    _textKeys:
+    - Code
+    _textValues:
+    - dc.EndConversation();
+  - Guid: 1db41c3e-8256-4979-9715-525713f12ad7
+    Position: {x: 224.8, y: 2140.8}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - Panting for breath, the girl smiled proudly. In front of the candy shop, a
+      large dog barked and bared its teeth.
+  - Guid: 7343df01-2e67-49a5-a5e8-be25bf2f2352
+    Position: {x: 224, y: 2352.8}
+    Type: 4
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - The girl thought to herself as she hopped.
+  - Guid: 8b2e43d9-ffad-476c-9660-9a1d4ab95f85
+    Position: {x: 224.8, y: 2603.2}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - When she reached the bus stop, snow flurries began to blow.
+  - Guid: 7cec0f7f-39b7-4f52-ba79-3e5dc115c3fb
+    Position: {x: 224, y: 2816.8}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - "The hopscotch rings kept going. The girl kept hopping, her red face \rsweaty.\r"
+  - Guid: ffd569a6-b84f-4794-a9de-579535f9ec5e
+    Position: {x: 224, y: 3036.8}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - "One foot, one foot, two feet, on \u2026"
+  - Guid: f821bc2c-4317-403d-aef0-217b41e19801
+    Position: {x: 1008, y: 2452.8}
+    Type: 64
+    _textKeys:
+    - Code
+    _textValues:
+    - dc.EndConversation();
+  - Guid: c9397c59-a599-41a5-9512-f0f6ea953b2d
+    Position: {x: 224.8, y: 3488.8}
+    Type: 4
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - The girl though to herself
+  - Guid: 1c6a4c57-35dd-4412-a04f-8f6c44af002b
+    Position: {x: 224.8, y: 3733.6}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - Then she heard a voice form behind her
+  - Guid: 4d14520a-88b5-48ed-b58b-1bc7eb530122
+    Position: {x: 520.8, y: 3733.6}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    - CharacterName
+    _textValues:
+    - "\u201COne foot, two feet, hop,\r hop, hop.\u201D"
+    - ???
+  - Guid: 2b758f11-630e-4937-b95b-fc7abcd3d392
+    Position: {x: 224.8, y: 3944.8}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - "Surprised, she turned around and saw a snow-white rabbit\r hopscotching after
+      her."
+  - Guid: a54f46c7-33a1-407b-9d60-20d19107aa2a
+    Position: {x: 224.8, y: 4165.5996}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    - CharacterName
+    _textValues:
+    - "\u201COne foot, two feet, hop, hop, hop.\u201D"
+    - White Rabbit
+  - Guid: 3262c82f-5a3f-42ab-8c36-a1c6f20533a9
+    Position: {x: 224.8, y: 4370.4}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - "When the girl looked closely,\r she saw another rabbit behind that one."
+  - Guid: b19dd8cf-e4cd-496d-8a04-591336d37fe2
+    Position: {x: 224.8, y: 4594.4}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - "As the snow kept falling, many\r more white rabbits began following her. She
+      gaped in amazement."
+  - Guid: 9b094a38-e855-4711-81c4-9476830d92e6
+    Position: {x: 550.4, y: 1936}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - She saw the old man who minded the shop.
+  - Guid: 903c5ab5-aecc-49b3-a62f-39eaac192798
+    Position: {x: 224.8, y: 3259.2}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - "The sky had turned dark, and a\r cold wind blew. The snow started to fall
+      heavily and left white spots on the girl\u2019s red sweater."
+  - Guid: 25fd886f-386a-48d8-9fae-133461d93e53
+    Position: {x: 224.8, y: 4794.4}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - This time she heard a voice from ahead.
+  - Guid: fd0533bb-263e-4782-a565-d99426dc6360
+    Position: {x: 530.4, y: 4794.4}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    - CharacterName
+    _textValues:
+    - "\u201CWhite rabbits behind\r you, white rabbits in front. One foot, two feet,
+      hop, hop, hop.\u201D"
+    - White Rabbit
+  - Guid: 210ffdc0-8d13-46ca-8cbc-9c445035f27d
+    Position: {x: 1089.6, y: 4007.2}
+    Type: 64
+    _textKeys:
+    - Code
+    _textValues:
+    - dc.EndConversation();
+  - Guid: ef22748c-a576-4bdc-aa13-0029a0e460b7
+    Position: {x: 224.8, y: 5019.1997}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - 'When she looked ahead, the girl saw a long line of white rabbits
+
+      hopping.'
+  - Guid: d844600c-7d36-42f9-8990-82f9419a2478
+    Position: {x: 224.8, y: 5472}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - She asked the rabbits and the one is front of her answered,
+  - Guid: 9e0dc5bb-a4b2-4635-8942-cbcd160ea492
+    Position: {x: 224.8, y: 5235.1997}
+    Type: 4
+    _textKeys:
+    - DialogueText
+    - CharacterName
+    _textValues:
+    - She felt as if she were in a dream.
+    - 
+  - Guid: 83fe682b-9a6f-4c39-a4ae-9605fdf6f217
+    Position: {x: 224.8, y: 5680}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    - CharacterName
+    _textValues:
+    - "\u201CTo the end, to the end of the\r world. We\u2019re snow rabbits who make
+      snow fall.\u201D "
+    - White Rabbit
+  - Guid: 1ffcedf6-ecc1-4451-9531-69bf0e2c60fa
+    Position: {x: 849.6, y: 5601.5996}
+    Type: 64
+    _textKeys:
+    - Code
+    _textValues:
+    - dc.EndConversation();
+  - Guid: 1bd94098-072e-48a1-9c6b-f4bcf44707b8
+    Position: {x: 224.8, y: 5891.1997}
+    Type: 4
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - 
+  - Guid: db3d0b2e-0237-4221-897d-1bb403bfb081
+    Position: {x: 464, y: 5891.1997}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - The girl was startled.
+  - Guid: 34efb41f-9fe7-401b-b34e-7fd0f5b382da
+    Position: {x: 1448.8, y: -146.4}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - "On the first day of snow, a herd of white\r rabbits came from north. They
+      went from village to village, dropping the snow."
+  - Guid: 5d27a6ea-7584-457b-8183-5d1e07093aec
+    Position: {x: 1448.8, y: 62.399998}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - 'They moved so fast humans saw only a white line. '
+  - Guid: 6e954fb8-f913-466a-92f5-b48db5d44066
+    Position: {x: 2102.4, y: 62.399998}
+    Type: 64
+    _textKeys:
+    - Code
+    _textValues:
+    - dc.EndConversation();
+  - Guid: 1868e372-46fc-4d4c-b585-643722a033ec
+    Position: {x: 1448.8, y: 268.8}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - "\u201CYou have to be careful,\u201D her grandmother said. "
+  - Guid: 215e01dd-2316-42a2-b7be-a2f9f693d6c3
+    Position: {x: 1448.8, y: 480}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - "\u201CIf you\u2019re caught\r\nin the herd of white rabbits, you can never
+      come home. You hop to the\r\nend of the world with the rabbits and turn into
+      a chunk of snow.\u201D\r"
+  - Guid: 2d78bd69-e98c-4699-ba8c-9bac5732cf29
+    Position: {x: 1448.8, y: 699.2}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - "When the girl first heard this story, a chill ran down her spine.\r Now she
+      was about the be taken away by the rabbits.\r"
+  - Guid: 92f7e0b9-c6a4-44c6-893a-940388192a89
+    Position: {x: 1448.8, y: 908.8}
+    Type: 4
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - The girl screamed inside her head
+  - Guid: 8fcfc7cb-8701-41c5-83ae-298f20ae65f4
+    Position: {x: 1739.2, y: 920.8}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - She tried to stop her feet from stepping into the next ring.
+  - Guid: 18b862db-c911-4e1a-82a0-7bc290f8ca13
+    Position: {x: 2256, y: 920.8}
+    Type: 64
+    _textKeys:
+    - Code
+    _textValues:
+    - dc.EndConversation();
+  - Guid: f4a5f6b6-95a0-4569-845c-562d9ec4be44
+    Position: {x: 1448.8, y: 1158.4}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - Then the rabbit behind her said,
+  - Guid: d17e48e8-e25e-4235-8c73-ff6b75a68112
+    Position: {x: 1701.6, y: 1158.4}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    - CharacterName
+    _textValues:
+    - " \u201CDon\u2019t stop! We\u2019re right behind\r\nyou. One foot, two feet,
+      hop, hop, hop.\u201D"
+    - White Rabbit
+  - Guid: 6b7caf27-f517-43fa-b802-9c8dc66b5c5c
+    Position: {x: 1448.8, y: 1372.8}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - "Her body bounded like a rubber\r ball, hopping along the hopscotch rings. "
+  - Guid: 9f567643-5a1c-4768-95d3-465ff3360a79
+    Position: {x: 1448.8, y: 1580.8}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - 'While hopping, the girl remembered her grandmother telling a story. Her grandmother
+      had stopped dewing for a moment and said, '
+  - Guid: 1b69e6b4-d589-43bf-9a7d-5de6158c29d9
+    Position: {x: 1448.8, y: 1786.4}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - "\u201COnce there was a girl who came home alive after being taken away by
+      \nrabbits. She chanted with all her might: \u2018mugwort, mugwort, mugwort\r
+      \nin spring.\u2019 Mugwort is a charm against evil.\u201D\r"
+  - Guid: b567939f-dc94-42fa-84c5-41078d3112f3
+    Position: {x: 1445.6, y: 2258.4001}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - "As she hopped, she imagined a mugwort field. She thought about the warm sunlight,\r
+      dandelions, honeybees, and butterflies. She took a deep breath."
+  - Guid: 48bcc6a9-d043-418f-9cae-26f92318ed87
+    Position: {x: 1445.6, y: 2023.2001}
+    Type: 4
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - The girl thought to herself.
+  - Guid: 65deb849-587e-4cf2-a38c-1a121982d96c
+    Position: {x: 1445.6, y: 2465.6}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - "When\r she was about to say, \u201CMugwort, mugwort,\u201D she was interrupted
+      by the\r rabbits\u2019 singing"
+  - Guid: 54bf66d0-9c97-4a4c-bd2d-3a6991d3da88
+    Position: {x: 1445.6, y: 2685.6}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    - CharacterName
+    _textValues:
+    - "\u201CWe\u2019re snow rabbits white as snow\u201D"
+    - White Rabbits
+  - Guid: 518109ee-668c-4be8-ad5e-8fad94357d61
+    Position: {x: 1437.6, y: 2916.8}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    - CharacterName
+    _textValues:
+    - "\u201CWhite as snow, we never stop\u201D"
+    - White Rabbits
+  - Guid: b09bc26e-72c4-4aee-b984-0933a3d78cf9
+    Position: {x: 1705.6, y: 2916}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    - CharacterName
+    _textValues:
+    - "\u201COne foot, two feet hop, hop, hop\u201D"
+    - White Rabbits
+  - Guid: 281b8954-78b9-4c9a-978f-2e15ed8c3c85
+    Position: {x: 1705.6, y: 2685.6}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    - CharacterName
+    _textValues:
+    - "\u201CAnd snow falls everywhere we go\u201D"
+    - White Rabbits
+  - Guid: 92fcd93f-bd2e-45f4-86f9-df64873698c2
+    Position: {x: 1437.6, y: 3151.2}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - "The girl covered her ears with her hands. But the rabbits\u2019 singing\r
+      \nbecame louder and louder and spilled into her ears through the gaps \nbetween
+      her fingers and kept her from chanting the mugwort charm."
+  - Guid: 51a6a96c-9a65-45d0-9aad-ca760f43f235
+    Position: {x: 1437.6, y: 3395.2}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - "The herd of rabbits and the girl went through a fir forest, crossed \na frozen
+      lake, and reached faraway places she had never seen."
+  - Guid: d11f0da7-e6fd-4eab-b158-45263c1cae72
+    Position: {x: 1437.6, y: 3624.8}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - "She saw\r villages lined with small grass-rooted houses, small towns strewn
+      with\r \nsasanqua blossoms, and big cities crowded with factories. But no one\r
+      \nnoticed the rabbits and the girl."
+  - Guid: dc728437-5bcd-4b6e-bac4-8c5c4c0216cd
+    Position: {x: 1437.6, y: 3862.4001}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    - CharacterName
+    _textValues:
+    - "\u201COh, it\u2019s the first snow of winter\u201D "
+    - The Villagers
+  - Guid: c58fe215-e690-4aae-bc14-9c526084b3f3
+    Position: {x: 1690.4, y: 3861.6}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - "The people mumbled and hurried away.\r"
+  - Guid: dc70bef8-f4ba-4976-8203-70597d5e4908
+    Position: {x: 1437.6, y: 4099.1997}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - "As she hopped, the girl tried to chant the charm, but her voice was\r drowned
+      out by the rabbits\u2019 song.\r"
+  - Guid: cbca0d8f-aa6b-431a-8785-5fb97850e010
+    Position: {x: 1437.6, y: 4325.5996}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    - CharacterName
+    _textValues:
+    - "\u201CWe\u2019re the color of snow\r One foot, two feet, hop, hop, hop\u201D"
+    - White Rabbits
+  - Guid: e2c31073-e312-4134-ba30-3b464f283303
+    Position: {x: 2063.2, y: 3128}
+    Type: 64
+    _textKeys:
+    - Code
+    _textValues:
+    - dc.EndConversation();
+  - Guid: 3a2d3264-ab05-418f-8485-c4a6c68436e8
+    Position: {x: 1437.6, y: 4535.1997}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - "The girl\u2019s limbs were numb with cold, as cold as ice. Her cheeks turned\r
+      \npale, and her lips quivered. "
+  - Guid: a6cb6bf1-0876-48f7-b2f9-8569f9238b22
+    Position: {x: 1437.6, y: 4992.8}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - "Then she hopped into a ring\r and found a leaf."
+  - Guid: 6247a90f-e042-4384-8b3e-3c6e83cfe823
+    Position: {x: 1437.6, y: 4763.1997}
+    Type: 4
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - She thought to herself.
+  - Guid: 52eb086f-eb64-483d-be0d-e19923802e6c
+    Position: {x: 1437.6, y: 5205.5996}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - "She picked it up and saw it was a mugwort leaf,\r \nbright green. On the back,
+      it had fluffy white hairs."
+  - Guid: d2cf3f0a-3a27-461c-a4d6-b20f42464d7e
+    Position: {x: 1437.6, y: 5421.5996}
+    Type: 4
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - The girl thought.
+  - Guid: 9b7cb778-3327-4140-99ce-44392e878e25
+    Position: {x: 1437.6, y: 5661.5996}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - "She held the\r \nmugwort leaf to her chest. Then she felt someone cheering
+      for her. She \nfelt many small creatures rooting for her."
+  - Guid: fb0b3198-89c7-4659-bca1-59099803368f
+    Position: {x: 1934.4, y: 4827.1997}
+    Type: 64
+    _textKeys:
+    - Code
+    _textValues:
+    - dc.EndConversation();
+  - Guid: 3b5fd356-8bb2-4097-95a6-f0a9d568b997
+    Position: {x: 1019.2, y: 6113.5996}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - "She remembered a story her\r grandmother once told her."
+  - Guid: 0b44d630-b34b-45be-b706-d08bc92a7b9e
+    Position: {x: 2084.8, y: 5908}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - 'She could hear the voices of seeds under the snow, breathing,
+
+      enduring
+      the cold beneath the ground.'
+  - Guid: d454e445-0aca-4dce-a352-ce65661106bc
+    Position: {x: 2597.6, y: -146.4}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    - CharacterName
+    _textValues:
+    - 'A wonderful riddle came into her mind. She closed her eyes, took a deep breath,
+      and cried:'
+    - 
+  - Guid: 247ccdb8-9a1d-4b6d-a40f-34c651502f42
+    Position: {x: 2597.6, y: 65.600006}
+    Type: 4
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - Dialogue Node
+  - Guid: dd180eff-c07c-41bd-abe7-cc1b219d6a5d
+    Position: {x: 2597.6, y: 304.8}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - "Hearing this, the rabbit ahead of her tottered. He stopped singing\r and turned
+      around."
+  - Guid: c71281fc-788f-4f4e-854b-fba44143bc0a
+    Position: {x: 3132, y: 305.59998}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    - CharacterName
+    _textValues:
+    - "\u201CThe back of a mugwort leaf?\u201D"
+    - White Rabbit In Front
+  - Guid: a7384ef1-4d4a-41a5-952c-55d165c0ad08
+    Position: {x: 2597.6, y: 529.6}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    - CharacterName
+    _textValues:
+    - "\u201CI wonder why?\u201D"
+    - White Rabbit Behind
+  - Guid: 5201bfc9-83ce-4c39-a96f-a28c16d2715c
+    Position: {x: 2850.4, y: 529.6}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - The rabbit behind her stumbled.
+  - Guid: 5e539d2a-10ca-447d-979a-e18dce831797
+    Position: {x: 2597.6, y: 749.6}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - "The\r rabbits\u2019 singing broke off, and their pace slowed down."
+  - Guid: 45b6d90b-6230-411f-ae90-b1c80cce8ba4
+    Position: {x: 2597.6, y: 988}
+    Type: 4
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - Seizing the moment, the girl said,
+  - Guid: 3f627e14-0b6d-4410-b16f-b3eee8d14ece
+    Position: {x: 2597.6, y: 1230.4}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    - CharacterName
+    _textValues:
+    - "\u201CYes, you\u2019re right!\u201D"
+    - The White Rabbits
+  - Guid: 375fee4c-80a1-4b78-8dcd-1017775a7a05
+    Position: {x: 2860.8, y: 1230.4}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - 'The rabbits were delighted. They started
+
+      singing a new song'
+  - Guid: 3a38e77d-9ed3-4c0d-9f55-195ab226f47a
+    Position: {x: 2597.6, y: 1498.4}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    - CharacterName
+    _textValues:
+    - "\u201CWe\u2019re the color of spring\u201D"
+    - The White Rabbits
+  - Guid: f2f450ad-a9eb-4f7b-97af-68a94286d760
+    Position: {x: 2825.6, y: 1498.4}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    - CharacterName
+    _textValues:
+    - "\u201DOf the hairs on a mugwort leaf\u201D"
+    - The White Rabbits
+  - Guid: 65f83f3e-91c1-43a0-bc36-8dddbf36dfc8
+    Position: {x: 3070.4, y: 1499.2001}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    - CharacterName
+    _textValues:
+    - "\u201COne foot, two feet, hop, hop, hop.\u201D\r"
+    - The White Rabbits
+  - Guid: 81537cbb-e48f-4f9e-82d9-8ff8e9127506
+    Position: {x: 2597.6, y: 1704.8}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - "Then the girl thought she smelled the fragrance of flowers in the air. \nShe
+      heard the chirping of small birds. She imagined herself\r \nhopscotching in
+      a mugwort field, bathed in the spring sun. "
+  - Guid: 2a1bb341-7940-4035-a54a-d7155bce0107
+    Position: {x: 2597.6, y: 1939.2001}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - 'Her checks turned rosy. She slowed her eyes, took a deep breath, and shouted:'
+  - Guid: 44366156-c25b-4013-be7e-cc21f2ea2a85
+    Position: {x: 2597.6, y: 2156}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - "When she opened her eyes, she was hopping alone along a strange\r path in
+      a strange town.\n She saw no rabbits ahead or behind. Snow\r flurried."
+  - Guid: ee579720-4f58-4fa9-b05c-70a422cd987a
+    Position: {x: 2597.6, y: 2376}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - The hopscotch rings were no longer on the path, and the mugwort leaf was gone
+      from her hand.
+  - Guid: 179ebb5a-e7c4-4b10-ab69-0676bead30bb
+    Position: {x: 3099.2, y: 1907.2001}
+    Type: 4
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - Dialogue Node
+  - Guid: 36476e74-f370-481c-919b-0f99560febcb
+    Position: {x: 3592, y: 1662.4}
+    Type: 64
+    _textKeys:
+    - Code
+    _textValues:
+    - dc.EndConversation();
+  - Guid: e873c789-1de7-4c80-b068-4acd47c50106
+    Position: {x: 2597.6, y: 2586.4001}
+    Type: 4
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - The girl thought
+  - Guid: 75893606-c55f-4e2e-9df4-e50331d01303
+    Position: {x: 2916, y: 2586.4001}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - "But she couldn\u2019t take another\r\nstep."
+  - Guid: 98898e18-c934-45e2-a089-08304873578e
+    Position: {x: 2597.6, y: 2830.4001}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - "A grow of strangers gathered around her and asked for her name\r \nand address.
+      When she told them the name of her village, they looked \nat each other, muttering."
+  - Guid: 0ed427a2-b10b-416b-9081-0c9c32f82694
+    Position: {x: 3072.8, y: 2830.4001}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    - CharacterName
+    _textValues:
+    - "\u201CI can\u2019t believe it.\u201D"
+    - Villagers
+  - Guid: b5f2db03-4d9e-4331-99e7-15e138a0ce0b
+    Position: {x: 2597.6, y: 3058.4001}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - "They didn\u2019t think a child\r could have walked from such a faraway place
+      beyond many mountains. "
+  - Guid: d7c2d11f-b6aa-4fd5-bb6b-a1e10fc81a83
+    Position: {x: 2597.6, y: 3264}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    - CharacterName
+    _textValues:
+    - "\u201CShe must have been led away by rabbits.\u201D"
+    - Old Woman
+  - Guid: f5525e5a-ccd8-43a3-80b8-85c6aa29b497
+    Position: {x: 2597.6, y: 3472.8}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    _textValues:
+    - "The townspeople fed the girl warm food and put her on a bus home\r before
+      dark.\r"
+  - Guid: fb0273be-85c7-444d-9854-8e5b49bd4e2b
+    Position: {x: 2597.6, y: 3679.2}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    - CharacterName
+    _textValues:
+    - "\u2014Translated from the Japanese by Toshiya Kamei"
+    - -End-
+  - Guid: eb4e30ee-a884-44da-a1a7-1d87f3dcc22e
+    Position: {x: 3120.8, y: 3442.4001}
+    Type: 64
+    _textKeys:
+    - Code
+    _textValues:
+    - 'Hopscotch hs = GameObject.FindObjectOfType<Hopscotch>();
+
+      hs.gameObject.SetActive(false);'
+  - Guid: 46d7e536-abce-4180-94d8-96e0aa44346f
+    Position: {x: 220, y: -164.8}
+    Type: 8
+    _textKeys:
+    - DialogueText
+    - CharacterName
+    _textValues:
+    - "The First Day of Snow \nWritten by Naoko Awa"
+    - 
+  - Guid: 8a6cdf7f-f0de-4ca1-9baa-b04dd3ab967f
+    Position: {x: 462.4, y: -64}
+    Type: 16
+    _textKeys:
+    - Code
+    _textValues:
+    - 'DialogueSystem.Demo.DialogueController dc;
+
+      Background bg;'

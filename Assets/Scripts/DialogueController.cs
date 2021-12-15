@@ -4,6 +4,8 @@ using UnityEngine;
 using DialogueSystem;
 using TMPro;
 using System.Linq;
+using UnityEngine.Events;
+using System.Text.RegularExpressions;
 
 namespace DialogueSystem.Demo
 {
@@ -29,6 +31,9 @@ namespace DialogueSystem.Demo
         [SerializeField]
         GameObject noOptionsNext;
 
+        [SerializeField]
+        UnityEvent OnDialogueExit;
+
         List<string> optionGuids;
 
 
@@ -50,8 +55,8 @@ namespace DialogueSystem.Demo
             textField.SetActive(true);
             namefield.SetActive(true);
 
-            dialogueText.text = manager.DialogueText;
-            nameText.text = manager.Character;
+            dialogueText.text = SterilizeText(manager.DialogueText);
+            nameText.text = SterilizeText(manager.Character);
 
             if (string.IsNullOrEmpty(manager.DialogueText))
                 textField.SetActive(false);
@@ -87,8 +92,15 @@ namespace DialogueSystem.Demo
             }
         }
 
+        public string SterilizeText(string s) 
+        {
+            Regex r = new Regex(@"([^a-zA-Z0-9_ .,&—\""'?“”!…\-:])");
+            return r.Replace(s, string.Empty);
+        }
+
         public void EndConversation()
         {
+            OnDialogueExit.Invoke();
             dialogueParent.SetActive(false);
         }
 
