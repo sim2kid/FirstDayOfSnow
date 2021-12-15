@@ -5,7 +5,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "3177a87a99962196e2daf29076afd0c80d2919ac"
+      "hash": "fb6dd378e1ef630e42fc994106af7bf165d11571"
     },
     "com.simmgames.dialoguesystem": {
       "version": "https://github.com/SimmGames/com.simmgames.dialoguesystem.git",
@@ -123,6 +123,13 @@
     },
     "com.unity.ide.vscode": {
       "version": "1.2.4",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.inputsystem": {
+      "version": "1.0.2",
       "depth": 0,
       "source": "registry",
       "dependencies": {},
