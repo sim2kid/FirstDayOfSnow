@@ -13,7 +13,7 @@ namespace Sound
         private Database baked_db;
         public BackgroundDatabase()
         {
-            baked_db = Importer.LoadDatabase("Data/Database", "Background");
+            baked_db = Importer.LoadDatabase("Data/Database", "Images");
         }
 
         /// <summary>

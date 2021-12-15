@@ -13,10 +13,6 @@ namespace Sound
         [SerializeField]
         LoopSound Sound;
 
-        [SerializeField]
-        List<float> TimesToSwitchTracks;
-        int listIndex = 0;
-
 
         int index = 0;
         int trackCount { get => getTrackCount();  }
