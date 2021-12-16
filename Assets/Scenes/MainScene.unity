@@ -1164,6 +1164,42 @@ PrefabInstance:
       propertyPath: m_Colors.m_HighlightedColor.r
       value: 0.5283019
       objectReference: {fileID: 0}
+    - target: {fileID: 1244592416616833248, guid: d8df70c6071fa444a87184258d3dcd2a, type: 3}
+      propertyPath: m_Navigation.m_Mode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1244592416616833248, guid: d8df70c6071fa444a87184258d3dcd2a, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1244592416616833248, guid: d8df70c6071fa444a87184258d3dcd2a, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 1244592416616833248, guid: d8df70c6071fa444a87184258d3dcd2a, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 906972843}
+    - target: {fileID: 1244592416616833248, guid: d8df70c6071fa444a87184258d3dcd2a, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1244592416616833248, guid: d8df70c6071fa444a87184258d3dcd2a, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: SetActive
+      objectReference: {fileID: 0}
+    - target: {fileID: 1244592416616833248, guid: d8df70c6071fa444a87184258d3dcd2a, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: UnityEngine.GameObject, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 1244592416616833248, guid: d8df70c6071fa444a87184258d3dcd2a, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_IntArgument
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1244592416616833248, guid: d8df70c6071fa444a87184258d3dcd2a, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 1244592416666121833, guid: d8df70c6071fa444a87184258d3dcd2a, type: 3}
       propertyPath: m_fontSizeMin
       value: 1
