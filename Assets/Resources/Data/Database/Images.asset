@@ -18,4 +18,6 @@ MonoBehaviour:
   - FolderName: Background
     Files:
     - ParentFolder: Background
+      FileLocation: Background\0.png
+    - ParentFolder: Background
       FileLocation: Background\Untitled.png
