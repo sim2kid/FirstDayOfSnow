@@ -18,6 +18,68 @@ MonoBehaviour:
   - FolderName: Background
     Files:
     - ParentFolder: Background
-      FileLocation: Background\0.png
+      FileLocation: Background\00.png
     - ParentFolder: Background
-      FileLocation: Background\Untitled.png
+      FileLocation: Background\01.png
+    - ParentFolder: Background
+      FileLocation: Background\02.png
+    - ParentFolder: Background
+      FileLocation: Background\03.png
+    - ParentFolder: Background
+      FileLocation: Background\04.png
+    - ParentFolder: Background
+      FileLocation: Background\05.png
+    - ParentFolder: Background
+      FileLocation: Background\06.png
+    - ParentFolder: Background
+      FileLocation: Background\07.png
+    - ParentFolder: Background
+      FileLocation: Background\08.png
+    - ParentFolder: Background
+      FileLocation: Background\09.png
+    - ParentFolder: Background
+      FileLocation: Background\10.png
+    - ParentFolder: Background
+      FileLocation: Background\11.png
+    - ParentFolder: Background
+      FileLocation: Background\12.png
+    - ParentFolder: Background
+      FileLocation: Background\13.png
+    - ParentFolder: Background
+      FileLocation: Background\14.png
+    - ParentFolder: Background
+      FileLocation: Background\15.png
+    - ParentFolder: Background
+      FileLocation: Background\16.png
+    - ParentFolder: Background
+      FileLocation: Background\17.png
+    - ParentFolder: Background
+      FileLocation: Background\18.png
+    - ParentFolder: Background
+      FileLocation: Background\19.png
+    - ParentFolder: Background
+      FileLocation: Background\20.png
+    - ParentFolder: Background
+      FileLocation: Background\21.png
+    - ParentFolder: Background
+      FileLocation: Background\22.png
+    - ParentFolder: Background
+      FileLocation: Background\23.png
+    - ParentFolder: Background
+      FileLocation: Background\24.png
+    - ParentFolder: Background
+      FileLocation: Background\25.png
+    - ParentFolder: Background
+      FileLocation: Background\26.png
+    - ParentFolder: Background
+      FileLocation: Background\27.png
+    - ParentFolder: Background
+      FileLocation: Background\28.png
+    - ParentFolder: Background
+      FileLocation: Background\29.png
+    - ParentFolder: Background
+      FileLocation: Background\30.png
+    - ParentFolder: Background
+      FileLocation: Background\31.png
+    - ParentFolder: Background
+      FileLocation: Background\32.png
